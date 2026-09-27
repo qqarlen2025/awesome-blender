@@ -176,6 +176,7 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 
 ### 🧊Modeling [^](#table)
 
+- [Fast3D](https://www.fast3d.org/en) - Free online converter for GLB, OBJ, STL and more — handy for moving Blender exports into game engines, slicers or the web without installing anything.
 - [MACHIN3tools](https://gumroad.com/l/MACHIN3tools) : is a free, continuously evolving collection of blender tools and pie menus in a single customizable package. [![][repo]](https://github.com/machin3io/MACHIN3tools) [![market]](https://blendermarket.com/products/MACHIN3tools)
 - [QBlocker](https://qblockerdocs.readthedocs.io/) : is an interactive object creation tool for Blender.
 - [fspy](https://fspy.io/) : is an open-source camera matching app, extremely useful for modeling directly from a reference image. [(blender addon)](https://github.com/stuffmatic/fSpy-Blender)
